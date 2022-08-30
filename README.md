@@ -12,7 +12,7 @@ O material está dividido em pastas com os nomes das empresas conveniadas.
   Tamanho 1413x1994 (40% menor que o cartaz A3)
   Tamanho 1080x1350 (formato para usar no Instagram)
 
-![](../Site/download-no-github.PNG)
+![](/Site/download-no-github.PNG)
 
 Link para acesso no GitHub:
 https://github.com/acisesp/Convenio
